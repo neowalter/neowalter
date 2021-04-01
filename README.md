@@ -5,9 +5,8 @@
 - 🌱 热爱分享 <a href="" target="_blank">公众号『 Sstudy 』</a>
 - 😺 趣讲技术：<a href="https://neowalter.home.blog/" target="_blank">个人网站</a> | <a href="https://www.linkedin.com/in/neowalter/" target="_blank">Linkein </a>
 - 💬 微信：neowalter
-- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/neowalter" target="_blank">@neowalter</a>
+- 🤔 知乎 <a href="https://www.zhihu.com/people/neowalter" target="_blank">@neowalter</a>
 
 ## 新年汇总 ✨
-<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=neowalter&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neowalter&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=neowalter&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neowalter&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=neowalter&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neowalter&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
